@@ -1,13 +1,13 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "a11yMTL",
-  "language": "en",
+  "language": "fr",
   "home_page_url": "https://a11ymtl.net/",
   "feed_url": "https://a11ymtl.net/feed/feed.json",
-  "description": "The accessibility community in Montreal",
+  "description": "La communauté de l&#39;accessibilité à Montréal",
   "author": {
     "name": "a11yMTL",
-    "url": "https://a11ymtl.net/about/"
+    "url": "https://a11ymtl.net/apropos/"
   },
   "items": [{
       "id": "https://a11ymtl.net/posts/fourthpost/",

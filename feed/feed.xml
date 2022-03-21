@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>a11yMTL</title>
-	<subtitle>The accessibility community in Montreal</subtitle>
+	<subtitle>La communauté de l&#39;accessibilité à Montréal</subtitle>
 	
 	<link href="https://a11ymtl.net/feed/feed.xml" rel="self"/>
 	<link href="https://a11ymtl.net/"/>
