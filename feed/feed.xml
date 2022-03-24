@@ -21,41 +21,38 @@
 	</entry>
 	
 	<entry>
-		<title>This is my fourth post.</title>
-		<link href="https://a11ymtl.net/a11ymtl/events/fourthpost/"/>
-		<updated>2018-09-30T00:00:00Z</updated>
-		<id>https://a11ymtl.net/a11ymtl/events/fourthpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot; tabindex=&quot;-1&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;https://a11ymtl.net/a11ymtl/events/fourthpost/#section-header&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>This is my third post.</title>
-		<link href="https://a11ymtl.net/a11ymtl/events/thirdpost/"/>
-		<updated>2018-08-24T00:00:00Z</updated>
-		<id>https://a11ymtl.net/a11ymtl/events/thirdpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;pre class=&quot;language-diff-js&quot;&gt;&lt;code class=&quot;language-diff-js&quot;&gt;// this is a command&lt;br /&gt;function myCommand() {&lt;br /&gt;&lt;span class=&quot;token inserted-sign inserted language-js&quot;&gt;&lt;span class=&quot;token prefix inserted&quot;&gt;+&lt;/span&gt;	&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; counter &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token deleted-sign deleted language-js&quot;&gt;&lt;span class=&quot;token prefix deleted&quot;&gt;-&lt;/span&gt;	counter&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;// Test with a line break above this line.&lt;br /&gt;console.log(&#39;Test&#39;);&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot; tabindex=&quot;-1&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;https://a11ymtl.net/a11ymtl/events/thirdpost/#section-header&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>This is my second post.</title>
-		<link href="https://a11ymtl.net/a11ymtl/events/secondpost/"/>
-		<updated>2018-07-04T00:00:00Z</updated>
-		<id>https://a11ymtl.net/a11ymtl/events/secondpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot; tabindex=&quot;-1&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;https://a11ymtl.net/a11ymtl/events/secondpost/#section-header&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://a11ymtl.net/a11ymtl/events/firstpost/&quot;&gt;First post&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://a11ymtl.net/a11ymtl/events/thirdpost/&quot;&gt;Third post&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
+		<title>GAAD 10e Anniversaire par a11yMTL en partenariat avec A11yBay</title>
+		<link href="https://a11ymtl.net/a11ymtl/events/2021-05-20/"/>
+		<updated>2021-05-20T00:00:00Z</updated>
+		<id>https://a11ymtl.net/a11ymtl/events/2021-05-20/</id>
+		<content type="html">&lt;p&gt;Rejoignez nous jeudi soir pour célébrer la 10e Journée mondiale de sensibilisation à l&#39;accessibilité (GAAD).&lt;/p&gt;
+&lt;p&gt;Nous nous retrouverons sur Zoom.&lt;/p&gt;
+&lt;p&gt;Inscrivez-vous sur Meetup, le lien Zoom sera posté pour les participants.&lt;br /&gt;
+(Cliquez sur &amp;quot;Participer en ligne&amp;quot;)&lt;/p&gt;
+&lt;p&gt;Le 20 mai marquera la 10e édition de la Journée mondiale de sensibilisation à l&#39;accessibilité (GAAD) et nous partagerons notre enthousiasme en nous associant aux groupes Meetup accessibilité du monde entier. Notre objectif est d&#39;en faire le plus grand Meetup sur l&#39;accessibilité et le design inclusif!&lt;/p&gt;
+&lt;p&gt;DISCOURS ET CONFÉRENCIERS INVITÉS:&lt;br /&gt;
+Nous ouvrirons avec un mot d&#39;A11yBay et une apparition spéciale des cofondateurs de GAAD Joe Devon et Jennison Asuncion (&lt;a href=&quot;https://globalaccessibilityawarenessday.org/about/&quot;&gt;https://globalaccessibilityawarenessday.org/about/&lt;/a&gt;). Ils auront une annonce passionnante à faire. Nous nous tournerons ensuite vers nos orateurs. Nous en avons trois confirmés maintenant, et d&#39;autres sont à venir.&lt;/p&gt;
+&lt;p&gt;Terri Rodriguez-Hong a récemment publié &amp;quot;Ce que c&#39;est que d&#39;avoir un handicap caché dans la Silicon Valley&amp;quot; dans Fast Company. Elle se joindra à nous pour réfléchir à l&#39;article et discuter de son parcours. Lisez l&#39;article ici &lt;span lang=&quot;en&quot;&gt;&lt;a href=&quot;https://www.fastcompany.com/90625517/what-its-like-having-a-hidden-disability-in-silicon-valley&quot;&gt;What it’s like having a hidden disability in Silicon Valley&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Carie Fisher de Deque System présentera L&#39;avenir de l&#39;accessibilité est un livre «Choisissez votre propre aventure». La question que Carie abordera est la suivante: les concepteurs et les développeurs pensent-ils vraiment qu&#39;ils peuvent créer une expérience accessible à tous - même s&#39;il existe des combinaisons infinies de navigateurs, de TA, de paramètres et de préférences utilisateur?&lt;/p&gt;
+&lt;p&gt;En savoir plus sur &lt;a href=&quot;https://linkedin.com/in/cariefisher&quot;&gt;Carie Fischer sur Linkedin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Notre autre conférencier confirmé est Marc B.D. Greenberg. Les robots pénètrent de plus en plus dans l&#39;espace public et dans nos vies. Sous une forme ou une autre - du Roomba à Aibo en passant par les robots domestiques, de trottoir et en magasin - ils sont conçus et diffusés dans nos vies et nos espaces. Quelles considérations d&#39;accessibilité faut-il prendre en compte et comment pouvons-nous faire face à cela?&lt;/p&gt;
+&lt;p&gt;En savoir plus sur &lt;a href=&quot;https://linkedin.com/in/marcbdg&quot;&gt;Marc B.D. Greenberg sur Linkedin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;ORDRE DU JOUR:&lt;br /&gt;
+(Sous réserve de modifications à l&#39;approche du 20 mai!)&lt;/p&gt;
+&lt;p&gt;Les conférences seront en anglais&lt;br /&gt;
+Pour la période de discussion libre nous pourrions ouvrir une salle en français.&lt;/p&gt;
+&lt;p&gt;19h30 - 19h45 HAE - Mot de bienvenue des cofondateurs d&#39;A11yBay et de GAAD&lt;/p&gt;
+&lt;p&gt;19h45 - 20h15 HAE - Terri Rodriguez-Hong&lt;br /&gt;
+&amp;quot;Reflections and Discussion on What it&#39;s like having a hidden disability in Silicon Valley&amp;quot;&lt;/p&gt;
+&lt;p&gt;&amp;quot;Réflexions et discussion sur ce que c&#39;est que d&#39;avoir un handicap caché dans la Silicon Valley&amp;quot;&lt;/p&gt;
+&lt;p&gt;20 h 15 - 20 h 55 HAE - Conférence de Carie Fisher:&lt;br /&gt;
+&lt;span lang=&quot;en&quot;&gt;&amp;quot;The Future of Accessibility is a &#39;Choose Your Own Adventure&#39; Book&amp;quot;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;«L&#39;avenir de l&#39;accessibilité est un livre« Choisissez votre propre aventure »&lt;/p&gt;
+&lt;p&gt;20 h 55 à 21 h 15 HAE - Marc B.D. Conférence de Greenberg:&lt;br /&gt;
+&amp;quot;Robots and Accessibility&amp;quot;&lt;br /&gt;
+&amp;quot;Robots et accessibilité&amp;quot;&lt;/p&gt;
+&lt;p&gt;9 h 15 - 21 h 30 HAE - [Conférence à annoncer]&lt;/p&gt;
+&lt;p&gt;9h30 - 21h45 HAE - Période de discussion libre en petites salles dans Zoom.&lt;/p&gt;
 </content>
 	</entry>
 </feed>
