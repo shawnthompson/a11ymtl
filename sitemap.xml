@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://a11ymtl.net/a11ymtl/posts/firstpost/</loc>
+    <loc>https://a11ymtl.net/a11ymtl/events/firstpost/</loc>
     <lastmod>2018-05-01</lastmod>
   </url>
   
   <url>
-    <loc>https://a11ymtl.net/a11ymtl/posts/secondpost/</loc>
+    <loc>https://a11ymtl.net/a11ymtl/events/secondpost/</loc>
     <lastmod>2018-07-04</lastmod>
   </url>
   
   <url>
-    <loc>https://a11ymtl.net/a11ymtl/posts/thirdpost/</loc>
+    <loc>https://a11ymtl.net/a11ymtl/events/thirdpost/</loc>
     <lastmod>2018-08-24</lastmod>
   </url>
   
   <url>
-    <loc>https://a11ymtl.net/a11ymtl/posts/fourthpost/</loc>
+    <loc>https://a11ymtl.net/a11ymtl/events/fourthpost/</loc>
     <lastmod>2018-09-30</lastmod>
   </url>
   
@@ -27,7 +27,7 @@
   </url>
   
   <url>
-    <loc>https://a11ymtl.net/a11ymtl/posts/</loc>
+    <loc>https://a11ymtl.net/a11ymtl/events/</loc>
     <lastmod>2022-03-24</lastmod>
   </url>
   
