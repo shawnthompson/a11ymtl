@@ -1007,8 +1007,8 @@ select {
 .mt-8 {
   margin-top: 2rem;
 }
-.inline-block {
-  display: inline-block;
+.block {
+  display: block;
 }
 .inline {
   display: inline;
@@ -1030,9 +1030,6 @@ select {
 }
 .h-full {
   height: 100%;
-}
-.w-6 {
-  width: 1.5rem;
 }
 .w-8 {
   width: 2rem;
@@ -1083,10 +1080,10 @@ select {
   margin-top: calc(1.5rem * calc(1 - var(--tw-space-y-reverse)));
   margin-bottom: calc(1.5rem * var(--tw-space-y-reverse));
 }
-.space-x-4 > :not([hidden]) ~ :not([hidden]) {
+.space-x-10 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-x-reverse: 0;
-  margin-right: calc(1rem * var(--tw-space-x-reverse));
-  margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));
+  margin-right: calc(2.5rem * var(--tw-space-x-reverse));
+  margin-left: calc(2.5rem * calc(1 - var(--tw-space-x-reverse)));
 }
 .space-x-2 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-x-reverse: 0;
@@ -1113,9 +1110,6 @@ select {
   --tw-bg-opacity: 1;
   background-color: rgb(229 229 229 / var(--tw-bg-opacity));
 }
-.fill-current {
-  fill: currentColor;
-}
 .p-1 {
   padding: 0.25rem;
 }
@@ -1140,6 +1134,9 @@ select {
 }
 .pb-8 {
   padding-bottom: 2rem;
+}
+.text-center {
+  text-align: center;
 }
 .text-base {
   font-size: 1rem;
@@ -1216,10 +1213,6 @@ select {
   --tw-text-opacity: 1;
   color: rgb(0 0 0 / var(--tw-text-opacity));
 }
-.text-gray-700 {
-  --tw-text-opacity: 1;
-  color: rgb(64 64 64 / var(--tw-text-opacity));
-}
 .antialiased {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -1277,13 +1270,9 @@ input:-webkit-autofill:focus {
   --tw-text-opacity: 1;
   color: rgb(13 148 136 / var(--tw-text-opacity));
 }
-.hover\:text-gray-600:hover {
+.hover\:text-blue-600:hover {
   --tw-text-opacity: 1;
-  color: rgb(82 82 82 / var(--tw-text-opacity));
-}
-.hover\:text-blue-500:hover {
-  --tw-text-opacity: 1;
-  color: rgb(59 130 246 / var(--tw-text-opacity));
+  color: rgb(37 99 235 / var(--tw-text-opacity));
 }
 .focus\:outline-none:focus {
   outline: 2px solid transparent;
@@ -1313,17 +1302,9 @@ input:-webkit-autofill:focus {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
-.dark .dark\:text-gray-200 {
-  --tw-text-opacity: 1;
-  color: rgb(229 229 229 / var(--tw-text-opacity));
-}
 .dark .dark\:hover\:text-primary-400:hover {
   --tw-text-opacity: 1;
   color: rgb(45 212 191 / var(--tw-text-opacity));
-}
-.dark .dark\:hover\:text-blue-400:hover {
-  --tw-text-opacity: 1;
-  color: rgb(96 165 250 / var(--tw-text-opacity));
 }
 @media (min-width: 640px) {
 
