@@ -1324,7 +1324,6 @@ a.tags:hover {
 @media (min-width: 640px) {
 
   .h2 {
-    font-size: 1.5rem;
     line-height: 2.5rem;
   }
 }
@@ -1339,7 +1338,7 @@ a.tags:hover {
 
 .h3 {
   margin-top: 1.25rem;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   font-weight: 800;
   line-height: 2.25rem;
   letter-spacing: -0.025em;
@@ -1355,7 +1354,6 @@ a.tags:hover {
 @media (min-width: 640px) {
 
   .h3 {
-    font-size: 1.875rem;
     line-height: 2.5rem;
   }
 }
