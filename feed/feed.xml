@@ -5,12 +5,20 @@
 	
 	<link href="https://a11ymtl.net/a11ymtl/feed/feed.xml" rel="self"/>
 	<link href="https://a11ymtl.net/"/>
-	<updated>2022-03-15T00:00:00Z</updated>
+	<updated>2022-05-19T00:00:00Z</updated>
 	<id>https://a11ymtl.net/</id>
 	<author>
 		<name>a11yMTL</name>
 		<email>a11ymtl@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>a11yMTL / Journée mondiale de la sensibilisation à l&#39;accessibilité (GAAD)</title>
+		<link href="https://a11ymtl.net/a11ymtl/events/2022-05-19/"/>
+		<updated>2022-05-19T00:00:00Z</updated>
+		<id>https://a11ymtl.net/a11ymtl/events/2022-05-19/</id>
+		<content type="html"></content>
+	</entry>
 	
 	<entry>
 		<title>a11yMTL / axe-con social</title>
